@@ -1,6 +1,5 @@
 const searchinput = document.querySelector('.search-input');
 
-//it findes the HTML element with the classs .search-input and store into variable searchinput 
 
 searchinput.addEventListener("keydown", function(event){
 
